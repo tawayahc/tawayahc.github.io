@@ -22,10 +22,10 @@ repository               : "tawayahc/tawayahc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Chill_guy_original_artwork.jpg"
   name             : "Chayawat Anaroch"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Chill guy ^3^."
+  bio              : "I am a Chill guy."
   location         : "Bangkok, Thailand"
   employer         : # "Red Brick University"
   uri              : # URL
