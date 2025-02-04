@@ -11,54 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* King Mongkut's University of Technology Thonburi
+  * Bachelor's degree, Computer Engineering, Aug 2033 - 2026 (expected)
+ 
+* Princess Chulabhorn Science High School Chiang Rai
+  * High School Diplma, May 2019 - Mar 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI Engineer
+  * Mitr Phol Group, Dec 2024 - Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant (Computer Vision Research)
+  * King Mongkut's University of Technology Thonburi, Jul 2024 - Present
+ 
+* Data Engineer
+  * Big Data Institute, Aug 2024
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Python, SQL, C, JavaScript, TypeScript, PHP, HTML, CSS
+* Data Manipulation Libraries: NumPy, pandas, Matplotlib, Seaborn, re, NLTK
+* Machine Learning Libraries: PyTorch, TensorFlow, scikit-learn, Ultralytics, Fairseq
+* Web Development Tools: Flask, FastAPI, Streamlit, React, Express, Tailwind CSS, Bootstrap, daisyUI, Material UI
+* Databases: MySQL, MariaDB, Oracle Live SQL, MongoDB
+* Soft Skills: Communication, Project Management, Collaboration, Problem-Solving, Self-Learner
